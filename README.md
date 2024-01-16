@@ -1,3 +1,3 @@
-# PythonProgramming_CAOne
+# PythonProgramming_CAone
 Python Programming CA One
 starting python programming class assessment one
